@@ -59,3 +59,12 @@ Todos los Equipos de Fundacite Carabobo tienen 100% Software Libre
  Fundacite Carabobo tiene más de Dos años de experiencia en certificación electrónica a través de la Academia de Software Libre Carabobo (ASLC), y hace un año a través de la Subdireción de Socialización. 
  Los certificados electrónicos una vez firmados electrónicamente son enviados automáticamente por el sistema de control de estudios a cada participante de los cursos dictados. 
  Los participantes pueden consultar sus notas y descargar todas las veces que quieran su certificado electrónico desde el portal de la ASL. Hecho con herramientas y manejadores de base de datos Libres.
+
+###GOBERNACION DEL ESTADO ANZOÁTEGUI
+
+* Servicios migrados al 100% con software libre (DHCP, NTP, LDAP, Internet, Correo institucional, VoIp, Atencion al ciudadano Bases de datos)
+* Estaciones de trabajo migradas a un 65%
+* Paginas web institucionales cumpliendo con la normativa técnica según resolucion 007 a un 35% (4 intituciones adscritas y la del edificio sede)
+* Sistema Administrativo Integrado en produccion 90% software libre (Falta módulo de RRHH que esta en pruebas).
+
+
